@@ -65,3 +65,7 @@ msgstr[1] "Il y a %d utilisateurs en ligne"
 msgid "Password"
 msgstr "Mot de passe"
 
+#: /app/modules/views
+msgid "new term here"
+msgstr ""
+

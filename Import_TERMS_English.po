@@ -65,7 +65,3 @@ msgstr[1] "Il y a %d utilisateurs en ligne"
 msgid "Password"
 msgstr "Mot de passe"
 
-#: 
-msgid "new term"
-msgstr "new term"
-
